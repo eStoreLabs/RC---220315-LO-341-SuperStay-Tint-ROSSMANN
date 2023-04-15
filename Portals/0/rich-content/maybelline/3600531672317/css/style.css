@@ -963,6 +963,10 @@ body {
   }
 }
 @media screen and (min-width: 998px) {
+  #es-maybelline.es-maybelline .es-kv__text--two img {
+    max-width: 75px;
+    margin-right: 20px;
+  }
   #es-maybelline.es-maybelline .es-kv__text--one {
     font-size: 26px;
   }
